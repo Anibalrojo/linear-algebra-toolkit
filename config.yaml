@@ -1,0 +1,6 @@
+# Configuration file for the Linear Algebra Showcase project
+
+# Parameters for the 2D transformations
+transformations:
+  angle_degrees: 45.0
+  scale_factor: 1.5
