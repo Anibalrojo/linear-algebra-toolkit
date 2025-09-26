@@ -24,7 +24,7 @@ To get started with this project, clone the repository and set up a virtual envi
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your_username/linear-algebra-toolkit.git
+    git clone https://github.com/Anibalrojo/linear-algebra-toolkit
     cd linear-algebra-toolkit
     ```
 
